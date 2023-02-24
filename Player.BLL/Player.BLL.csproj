@@ -19,8 +19,4 @@
     <ProjectReference Include="..\Player.DAL\Player.DAL.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Services\" />
-  </ItemGroup>
-
 </Project>
